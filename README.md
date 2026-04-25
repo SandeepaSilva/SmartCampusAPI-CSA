@@ -288,6 +288,8 @@ Filters also execute at the framework level, meaning they capture requests and r
 ## Author
 
 **Sandeep Silva**
+
 **University of Westminster**
+
 **Module: 5COSC022W Client-Server Architectures**
 
